@@ -1,0 +1,3 @@
+<!-- _includes/affiliate_link.html -->
+{% assign affiliate_ref = site.affiliate_ref | default: "youraffiliatecode" %}
+<a href="{{ include.url }}?ref={{ affiliate_ref }}" target="_blank" rel="nofollow noopener">{{ include.text }}</a>
