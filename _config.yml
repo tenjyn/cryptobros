@@ -1,0 +1,23 @@
+# _config.yml
+title: Crypto Affiliate Hub
+description: "Your one-stop source for cryptocurrency educational content, reviews, and comparisons."
+baseurl: ""  # e.g., /crypto-affiliate-website if hosting in a subfolder
+url: "https://yourgithubusername.github.io"  # Update with your GitHub Pages URL
+theme: minima
+
+# Plugins for SEO, feeds, and sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+# Affiliate tracking code (used by the affiliate_link include)
+affiliate_ref: "youraffiliatecode"
