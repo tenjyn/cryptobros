@@ -1,7 +1,7 @@
 # _config.yml
 title: Cryptobros
 description: "Your one-stop source for cryptocurrency educational content, reviews, and comparisons."
-baseurl: ""  # e.g., /cryptobros if hosting in a subfolder
+baseurl: "/cryptobros"  # e.g., /cryptobros if hosting in a subfolder
 url: "https://tenjyn.github.io"  # Update with your GitHub Pages URL
 theme: minima
 
