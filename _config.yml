@@ -1,8 +1,8 @@
 # _config.yml
-title: Crypto Affiliate Hub
+title: Cryptobros
 description: "Your one-stop source for cryptocurrency educational content, reviews, and comparisons."
-baseurl: ""  # e.g., /crypto-affiliate-website if hosting in a subfolder
-url: "https://yourgithubusername.github.io"  # Update with your GitHub Pages URL
+baseurl: ""  # e.g., /cryptobros if hosting in a subfolder
+url: "https://tenjyn.github.io"  # Update with your GitHub Pages URL
 theme: minima
 
 # Plugins for SEO, feeds, and sitemap
